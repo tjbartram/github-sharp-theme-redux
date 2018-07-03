@@ -46,7 +46,6 @@
     "list.activeSelectionBackground": "#5790be",
     "list.inactiveSelectionBackground": "#d0e2f0",
     "list.focusBackground": "#c7c7c7",
-    "list.focusForeground": "#252525",
     "activityBarBadge.background": "#d64926",
     "editorSuggestWidget.selectedBackground": "#c7c7c7"
   },
