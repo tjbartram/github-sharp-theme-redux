@@ -1,13 +1,9 @@
-# GitHub Plus Theme
+# GitHub Sharp Theme
 
-A full [VSCode](https://code.visualstudio.com/) editor theme inspired by the
-GitHub color scheme.
+A full [VSCode](https://code.visualstudio.com/) editor theme inspired by the GitHub color scheme.
 
-![screenshot](./screenshot.jpg)
+Fork of [GitHub Plus](https://marketplace.visualstudio.com/items?itemName=thenikso.github-plus-theme).
 
-Use [GitHub issues](https://github.com/thenikso/github-plus-theme) to report problems/requests (it might take a while to get feedback)
+![screenshot](./screenshot.png)
 
-## Extras
-
-- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-  is the suggested icon theme
+![screenshot 2](./centered.png)

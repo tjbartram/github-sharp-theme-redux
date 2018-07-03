@@ -1,6 +1,5 @@
 {
   "type": "light",
-  // Reference https://code.visualstudio.com/docs/getstarted/theme-color-reference
   "colors": {
     "focusBorder": "#fafbfc",
     "editor.background": "#ffffff",
@@ -38,7 +37,6 @@
     "tab.inactiveForeground": "#586069",
     "scrollbar.shadow": "#00000000"
   },
-  // User command "Inspect TM Scopes" to know which scope to color
   "tokenColors": [
     {
       "settings": {
@@ -74,7 +72,9 @@
       }
     },
     {
-      "scope": ["markup.italic.markdown"],
+      "scope": [
+        "markup.italic.markdown"
+      ],
       "settings": {
         "fontStyle": "italic"
       }
@@ -124,7 +124,6 @@
         "storage.type",
         "storage.control.clojure",
         "entity.name.function.clojure",
-        // NON github
         "support.function.node",
         "support.type.property-name.json",
         "punctuation.separator.key-value",
@@ -135,7 +134,6 @@
       }
     },
     {
-      // NON Github
       "scope": "variable.parameter.function",
       "settings": {
         "foreground": "#E27F2D"
@@ -156,7 +154,6 @@
       }
     },
     {
-      // NON Github
       "scope": [
         "entity.name.tag",
         "string.quoted",
