@@ -32,7 +32,7 @@
     "statusBar.debuggingForeground": "#cccccc",
     "statusBar.debuggingBackground": "#d64926",
     "statusBar.debuggingBorder": "#ff000000",
-    "scrollbar.shadow": "#00000000",
+    "scrollbar.shadow": "#cccccc",
     "input.border": "#d1d1d1",
     "editor.background": "#f9f9f9",
     "editor.lineHighlightBackground": "#eaeff5",
