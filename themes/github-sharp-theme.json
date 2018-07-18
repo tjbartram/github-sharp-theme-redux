@@ -47,7 +47,10 @@
     "list.inactiveSelectionBackground": "#d0e2f0",
     "list.focusBackground": "#c7c7c7",
     "activityBarBadge.background": "#d64926",
-    "editorSuggestWidget.selectedBackground": "#c7c7c7"
+    "editorSuggestWidget.selectedBackground": "#c7c7c7",
+    "menu.background": "#24292e",
+    "menu.foreground": "#cccccc",
+    "menu.selectionBackground": "#646464"
   },
   "tokenColors": [
     {
