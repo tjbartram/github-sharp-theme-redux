@@ -4,6 +4,6 @@ A full [VSCode](https://code.visualstudio.com/) editor theme inspired by the Git
 
 Fork of [GitHub Plus](https://marketplace.visualstudio.com/items?itemName=thenikso.github-plus-theme).
 
-![screenshot](./screenshot.png)
+![screenshot](./images/screenshot.png)
 
-![screenshot 2](./centered.png)
+![screenshot 2](./images/centered.png)
