@@ -23,12 +23,12 @@
 			{
 				"label": "GitHub Sharp",
 				"uiTheme": "vs",
-				"path": "./themes/github-sharp-theme.json"
+				"path": "./themes/github-sharp-theme.color-theme.json"
 			},
 			{
 				"label": "GitHub Sharp Dark",
 				"uiTheme": "vs-dark",
-				"path": "./themes/github-sharp-dark-theme.json"
+				"path": "./themes/github-sharp-dark-theme.color-theme.json"
 			}
 		]
 	}
