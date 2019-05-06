@@ -2,7 +2,7 @@
 	"name": "github-sharp-theme",
 	"displayName": "GitHub Sharp Theme",
 	"description": "A GitHub inspired color theme for VSCode code and interface",
-	"version": "1.3.2",
+	"version": "1.3.3",
 	"publisher": "joaomoreno",
 	"icon": "icon.png",
 	"repository": {
