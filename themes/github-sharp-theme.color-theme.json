@@ -8,6 +8,7 @@
     "editorBracketMatch.border": "#c8e1ff",
     "activityBar.background": "#24292e",
     "activityBar.foreground": "#fafbfc",
+    "activityBar.activeBorder": "#6d6d6d",
     "sideBar.foreground": "#586069",
     "sideBarTitle.foreground": "#24292e",
     "notification.background": "#54a3ff",
