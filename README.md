@@ -10,4 +10,5 @@ Two full [VSCode](https://code.visualstudio.com/) editor theme inspired by the G
 
 ![screenshot 2](./images/dark.png)
 
+Fork of [GitHub Sharp Theme](https://github.com/joaomoreno/github-sharp-theme).
 Fork of [GitHub Plus](https://marketplace.visualstudio.com/items?itemName=thenikso.github-plus-theme).

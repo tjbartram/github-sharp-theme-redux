@@ -182,7 +182,10 @@
       }
     },
     {
-      "scope": "variable.parameter.function",
+      "scope": [
+        "variable.parameter.function",
+        "entity.name.tag"
+      ],
       "settings": {
         "foreground": "#E27F2D"
       }
@@ -203,7 +206,6 @@
     },
     {
       "scope": [
-        "entity.name.tag",
         "string.quoted",
         "string.regexp",
         "string.interpolated",
